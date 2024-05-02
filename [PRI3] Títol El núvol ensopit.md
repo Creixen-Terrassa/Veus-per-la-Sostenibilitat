@@ -1,6 +1,6 @@
 # [PRI3] Títol: El núvol ensopit
 
-![Untitled](%5BPRI3%5D%20Ti%CC%81tol%20El%20nu%CC%81vol%20ensopit%20bfb6a47ea28c4cbdb5042299de153357/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -28,4 +28,4 @@ En el projecte podem relacionar clarament el Comunica’t de Català (creem seq�
 
 [[PRI3] Programació Didàctica Setmanal.pdf](%5BPRI3%5D%20Ti%CC%81tol%20El%20nu%CC%81vol%20ensopit%20bfb6a47ea28c4cbdb5042299de153357/PRI3_Programaci_Didctica_Setmanal.pdf)
 
-![PeuSubvencio.png](%5BPRI3%5D%20Ti%CC%81tol%20El%20nu%CC%81vol%20ensopit%20bfb6a47ea28c4cbdb5042299de153357/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
