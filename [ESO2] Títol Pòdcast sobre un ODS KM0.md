@@ -1,6 +1,6 @@
 # [ESO2] Títol: Pòdcast sobre un ODS KM0.
 
-![Untitled](%5BESO2%5D%20Ti%CC%81tol%20Po%CC%80dcast%20sobre%20un%20ODS%20KM0%204b5f51b5662b41fbbced6b08c46c0e74/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -481,4 +481,4 @@ Promoure una discussió final sobre el projecte, les obres i els ODS.
 
 Fomentar la retroalimentació constructiva i les reflexions finals.
 
-![PeuSubvencio.png](%5BESO2%5D%20Ti%CC%81tol%20Po%CC%80dcast%20sobre%20un%20ODS%20KM0%204b5f51b5662b41fbbced6b08c46c0e74/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
