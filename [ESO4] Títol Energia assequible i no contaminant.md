@@ -1,6 +1,6 @@
 # [ESO4] Títol: Energia assequible i no contaminant
 
-![Untitled](%5BESO4%5D%20Ti%CC%81tol%20Energia%20assequible%20i%20no%20contaminant%20df6c90ce9b8a47bd8f5bdf191fdcc19c/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -147,4 +147,4 @@ Visualització de les presentacions dels companys, tant de la seva classe com de
 12:00-13:30 → Espai Virtual d’Inspiració
 Revisió i visualització dels materials que els companys han creat durant la setmana.
 
-![PeuSubvencio.png](%5BESO4%5D%20Ti%CC%81tol%20Energia%20assequible%20i%20no%20contaminant%20df6c90ce9b8a47bd8f5bdf191fdcc19c/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
