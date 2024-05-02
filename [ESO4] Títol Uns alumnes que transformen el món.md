@@ -1,6 +1,6 @@
 # [ESO4] Títol: Uns alumnes que transformen el món.
 
-![Untitled](%5BESO4%5D%20Ti%CC%81tol%20Uns%20alumnes%20que%20transformen%20el%20mo%CC%81n%20b7b3c11748b848ba9b3b2515ecfdfe9b/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -271,4 +271,4 @@ S'han de fer dues accions de publicitat:
 - **Llibretes, bolígraf i portàtil**
 - **Projector**
 
-![PeuSubvencio.png](%5BESO4%5D%20Ti%CC%81tol%20Uns%20alumnes%20que%20transformen%20el%20mo%CC%81n%20b7b3c11748b848ba9b3b2515ecfdfe9b/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
