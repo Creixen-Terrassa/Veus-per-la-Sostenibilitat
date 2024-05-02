@@ -28,14 +28,14 @@ La programació integra els continguts de l'Objectiu de Desenvolupament Sostenib
 
 ## **Programació**
 
-[[PRI1] Programació Didàctica Dia 1.pdf](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PRI1_Programaci_Didctica_Dia_1.pdf)
+[[PRI1] Programació Didàctica Dia 1.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI1_Programaci%C3%B3_Did%C3%A0ctica_Dia_1.pdf)
 
-[[PRI1] Programació Didàctica Dia 2.pdf](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PRI1_Programaci_Didctica_Dia_2.pdf)
+[[PRI1] Programació Didàctica Dia 2.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI1_Programaci%C3%B3_Did%C3%A0ctica_Dia_2.pdf)
 
-[[PRI1] Programació Didàctica Dia 3.pdf](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PRI1_Programaci_Didctica_Dia_3.pdf)
+[[PRI1] Programació Didàctica Dia 3.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI1_Programaci%C3%B3_Did%C3%A0ctica_Dia_3.pdf)
 
-[[PRI1] Programació Didàctica Dia 4.pdf](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PRI1_Programaci_Didctica_Dia_4.pdf)
+[[PRI1] Programació Didàctica Dia 4.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI1_Programaci%C3%B3_Did%C3%A0ctica_Dia_4.pdf)
 
-[[PRI1] Programació Didàctica Dia 5.pdf](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PRI1_Programaci_Didctica_Dia_5.pdf)
+[[PRI1] Programació Didàctica Dia 5.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI1_Programaci%C3%B3_Did%C3%A0ctica_Dia_5.pdf)
 
 ![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
