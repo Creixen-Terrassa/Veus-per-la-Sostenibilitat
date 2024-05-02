@@ -1,6 +1,6 @@
 # [ESO3] Títol: Actuem ja !!!
 
-![Untitled](%5BESO3%5D%20Ti%CC%81tol%20Actuem%20ja%20!!!%20461202f4b9b848faadfbfd79039ece12/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -34,4 +34,4 @@ La competència de l’expressió escrita en llengua catalana es relaciona amb e
 
 [[ESO3.2] Programació Didàctica Dia 5.pdf](%5BESO3%5D%20Ti%CC%81tol%20Actuem%20ja%20!!!%20461202f4b9b848faadfbfd79039ece12/ESO3.2_Programaci_Didctica_Dia_5.pdf)
 
-![PeuSubvencio.png](%5BESO3%5D%20Ti%CC%81tol%20Actuem%20ja%20!!!%20461202f4b9b848faadfbfd79039ece12/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
