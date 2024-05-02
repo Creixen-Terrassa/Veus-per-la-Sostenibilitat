@@ -1,6 +1,6 @@
 # [PRI1] Títol: ODS4 i Comunicació
 
-![Untitled](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 Els infants de 1r de primària han participat en un viatge d'aprenentatges mentre exploren l'ODS 4: Educació de Qualitat. Mitjançant la creació de ninots que representen la diversitat de l’aula, descobriran el poder de la inclusió i la importància de la comunicació.
 
@@ -38,4 +38,4 @@ La programació integra els continguts de l'Objectiu de Desenvolupament Sostenib
 
 [[PRI1] Programació Didàctica Dia 5.pdf](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PRI1_Programaci_Didctica_Dia_5.pdf)
 
-![PeuSubvencio.png](%5BPRI1%5D%20Ti%CC%81tol%20ODS4%20i%20Comunicacio%CC%81%209630288ee0f446fda08cb387c0e765f8/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
