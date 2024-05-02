@@ -26,14 +26,14 @@ La programació plantejada permet integrar diverses àrees del coneixement de ma
 
 ## Programació
 
-[[ESO3.1] Programació Didàctica Dia 1.pdf](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/ESO3.1_Programaci_Didctica_Dia_1.pdf)
+[[ESO3.1] Programació Didàctica Dia 1.pdf](Programaci%C3%B3%20Did%C3%A0ctica/ESO3.1_Programaci%C3%B3_Did%C3%A0ctica_Dia_1.pdf)
 
-[[ESO3.1] Programació Didàctica Dia 2.pdf](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/ESO3.1_Programaci_Didctica_Dia_2.pdf)
+[[ESO3.1] Programació Didàctica Dia 2.pdf](Programaci%C3%B3%20Did%C3%A0ctica/ESO3.1_Programaci%C3%B3_Did%C3%A0ctica_Dia_2.pdf)
 
-[[ESO3.1] Programació Didàctica Dia 3.pdf](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/ESO3.1_Programaci_Didctica_Dia_3.pdf)
+[[ESO3.1] Programació Didàctica Dia 3.pdf](Programaci%C3%B3%20Did%C3%A0ctica/ESO3.1_Programaci%C3%B3_Did%C3%A0ctica_Dia_3.pdf)
 
-[[ESO3.1] Programació Didàctica Dia 4.pdf](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/ESO3.1_Programaci_Didctica_Dia_4.pdf)
+[[ESO3.1] Programació Didàctica Dia 4.pdf](Programaci%C3%B3%20Did%C3%A0ctica/ESO3.1_Programaci%C3%B3_Did%C3%A0ctica_Dia_4.pdf)
 
-[[ESO3.1] Programació Didàctica Dia 5.pdf](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/ESO3.1_Programaci_Didctica_Dia_5.pdf)
+[[ESO3.1] Programació Didàctica Dia 5.pdf](Programaci%C3%B3%20Did%C3%A0ctica/ESO3.1_Programaci%C3%B3_Did%C3%A0ctica_Dia_5.pdf)
 
 ![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
