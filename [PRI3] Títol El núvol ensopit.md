@@ -26,6 +26,7 @@ En el projecte podem relacionar clarament el Comunica’t de Català (creem seq�
 
 ## Programació
 
-[[PRI3] Programació Didàctica Setmanal.pdf](%5BPRI3%5D%20Ti%CC%81tol%20El%20nu%CC%81vol%20ensopit%20bfb6a47ea28c4cbdb5042299de153357/PRI3_Programaci_Didctica_Setmanal.pdf)
+
+[[PRI3] Programació Didàctica Setmanal.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI3_Programaci%C3%B3_Did%C3%A0ctica_Setmanal.pdf)
 
 ![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
