@@ -24,6 +24,6 @@ La programació fomenta una visió interdisciplinària del canvi climàtic, vinc
 
 ## Programació
 
-[[PRI5] Programació Didàctica Setmanal.pdf](%5BPRI5%5D%20Ti%CC%81tol%20#CREIXEMIACTUEM%20f3f8e6eaf7c647cd8fd3d7cd1d94a95a/PRI5_Programaci_Didctica_Setmanal.pdf)
+[[PRI5] Programació Didàctica Setmanal.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI5_Programaci%C3%B3_Did%C3%A0ctica_Setmanal.pdf)
 
 ![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
