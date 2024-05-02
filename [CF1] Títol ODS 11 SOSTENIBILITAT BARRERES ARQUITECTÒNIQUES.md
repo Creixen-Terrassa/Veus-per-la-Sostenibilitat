@@ -1,6 +1,6 @@
 # [CF1] Títol: ODS 11. SOSTENIBILITAT. BARRERES ARQUITECTÒNIQUES
 
-![Untitled](%5BCF1%5D%20Ti%CC%81tol%20ODS%2011%20SOSTENIBILITAT%20BARRERES%20ARQUIT%205a7d3829f9744865bb3631f04bd72366/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -126,4 +126,4 @@ Chromebooks, ordinadors o tauletes dels alumnes
 Col·loqui general amb tota la classe sobre el projecte, la seva posada en marxa i la informació aconseguida i apresa durant la realització.
 Valoració general sobre tots els ODS proposats i el valor d’assolir complir-los en un futur pròxim.
 
-![PeuSubvencio.png](%5BCF1%5D%20Ti%CC%81tol%20ODS%2011%20SOSTENIBILITAT%20BARRERES%20ARQUIT%205a7d3829f9744865bb3631f04bd72366/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
