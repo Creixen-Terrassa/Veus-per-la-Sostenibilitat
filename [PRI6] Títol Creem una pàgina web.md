@@ -24,14 +24,14 @@ Un projecte interdisciplinari sobre el canvi climàtic que integra les ciències
 
 ## Programació
 
-[[PRI6] Programació Didàctica Dia 1 - Introducció ODS 13 + Canvi climàtic.pdf](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PRI6_Programaci_Didctica_Dia_1_-_Introducci_ODS_13__Canvi_climtic.pdf)
+[[PRI6] Programació Didàctica Dia 1 - Introducció ODS 13 + Canvi climàtic.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI6_Programaci%C3%B3_Did%C3%A0ctica_Dia_1_-_Introducci%C3%B3_ODS_13__Canvi_clim%C3%A0tic.pdf)
 
-[[PRI6] Programació Didàctica Dia 2 - Planifiquem la pàgina web.pdf](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PRI6_Programaci_Didctica_Dia_2_-_Planifiquem_la_pgina_web.pdf)
+[[PRI6] Programació Didàctica Dia 2 - Planifiquem la pàgina web.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI6_Programaci%C3%B3_Did%C3%A0ctica_Dia_2_-_Planifiquem_la_p%C3%A0gina_web.pdf)
 
-[[PRI6] Programació Didàctica Dia 3 - Investiguem i recopilem informació.pdf](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PRI6_Programaci_Didctica_Dia_3_-_Investiguem_i_recopilem_informaci.pdf)
+[[PRI6] Programació Didàctica Dia 3 - Investiguem i recopilem informació.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI6_Programaci%C3%B3_Did%C3%A0ctica_Dia_3_-_Investiguem_i_recopilem_informaci%C3%B3.pdf)
 
-[[PRI6] Programació Didàctica Dia 4 - Editem i fem millores.pdf](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PRI6_Programaci_Didctica_Dia_4_-_Editem_i_fem_millores.pdf)
+[[PRI6] Programació Didàctica Dia 4 - Editem i fem millores.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI6_Programaci%C3%B3_Did%C3%A0ctica_Dia_4_-_Editem_i_fem_millores.pdf)
 
-[[PRI6] Programació Didàctica Dia 5 - Presentació web + cloenda.pdf](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PRI6_Programaci_Didctica_Dia_5_-_Presentaci_web__cloenda.pdf)
+[[PRI6] Programació Didàctica Dia 5 - Presentació web + cloenda.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI6_Programaci%C3%B3_Did%C3%A0ctica_Dia_5_-_Presentaci%C3%B3_web__cloenda.pdf)
 
 ![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
