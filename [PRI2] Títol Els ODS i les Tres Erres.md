@@ -1,6 +1,6 @@
 # [PRI2] Títol: Els ODS i les Tres Erres
 
-![Untitled](%5BPRI2%5D%20Ti%CC%81tol%20Els%20ODS%20i%20les%20Tres%20Erres%207cdae313053e4b769a94578926aceac3/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -29,4 +29,4 @@ El projecte que s'ha desenvolupat és interdisciplinari, ja que s'han abordat le
 
 [[PRI2] Programació Didàctica Setmanal.pdf](%5BPRI2%5D%20Ti%CC%81tol%20Els%20ODS%20i%20les%20Tres%20Erres%207cdae313053e4b769a94578926aceac3/PRI2_Programaci_Didctica_Setmanal.pdf)
 
-![PeuSubvencio.png](%5BPRI2%5D%20Ti%CC%81tol%20Els%20ODS%20i%20les%20Tres%20Erres%207cdae313053e4b769a94578926aceac3/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
