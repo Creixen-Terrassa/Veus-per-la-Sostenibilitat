@@ -1,6 +1,6 @@
 # [ESO1] Títol:  Escenifica el teu ODS
 
-![Untitled](%5BESO1%5D%20Ti%CC%81tol%20Escenifica%20el%20teu%20ODS%204c704f0f29f04849897ffae9c8c4e24d/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -432,4 +432,4 @@ Cada esquetx serà gravat.
 - Valorar la qualitat dels esquetxos representats (la informació mostrada és pertinent i clara?)
 - Avaluació final i Autoavaluació de cada alumne i coavaluació dels iguals.
 
-![PeuSubvencio.png](%5BESO1%5D%20Ti%CC%81tol%20Escenifica%20el%20teu%20ODS%204c704f0f29f04849897ffae9c8c4e24d/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
