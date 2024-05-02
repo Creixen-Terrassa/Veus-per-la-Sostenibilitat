@@ -1,6 +1,6 @@
 # [PRI5] Títol: #CREIXEMIACTUEM
 
-![Untitled](%5BPRI5%5D%20Ti%CC%81tol%20#CREIXEMIACTUEM%20f3f8e6eaf7c647cd8fd3d7cd1d94a95a/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -26,4 +26,4 @@ La programació fomenta una visió interdisciplinària del canvi climàtic, vinc
 
 [[PRI5] Programació Didàctica Setmanal.pdf](%5BPRI5%5D%20Ti%CC%81tol%20#CREIXEMIACTUEM%20f3f8e6eaf7c647cd8fd3d7cd1d94a95a/PRI5_Programaci_Didctica_Setmanal.pdf)
 
-![PeuSubvencio.png](%5BPRI5%5D%20Ti%CC%81tol%20#CREIXEMIACTUEM%20f3f8e6eaf7c647cd8fd3d7cd1d94a95a/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
