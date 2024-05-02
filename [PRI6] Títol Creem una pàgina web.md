@@ -1,6 +1,6 @@
 # [PRI6] Títol: Creem una pàgina web
 
-![Untitled](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -34,4 +34,4 @@ Un projecte interdisciplinari sobre el canvi climàtic que integra les ciències
 
 [[PRI6] Programació Didàctica Dia 5 - Presentació web + cloenda.pdf](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PRI6_Programaci_Didctica_Dia_5_-_Presentaci_web__cloenda.pdf)
 
-![PeuSubvencio.png](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web%20beb22f6c164748399e12ac89a3e0da3d/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
