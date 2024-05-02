@@ -1,6 +1,6 @@
 # [ESO3] Títol: Veu en Forma: Expressió Crítica a través de l'Art Audiovisual
 
-![Untitled](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -36,4 +36,4 @@ La programació plantejada permet integrar diverses àrees del coneixement de ma
 
 [[ESO3.1] Programació Didàctica Dia 5.pdf](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/ESO3.1_Programaci_Didctica_Dia_5.pdf)
 
-![PeuSubvencio.png](%5BESO3%5D%20Ti%CC%81tol%20Veu%20en%20Forma%20Expressio%CC%81%20Cri%CC%81tica%20a%20t%206ec3c60bd1ed4811b7b1d57101048f06/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
