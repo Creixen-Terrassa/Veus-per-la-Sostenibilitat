@@ -38,7 +38,7 @@ El projecte ha estat obert a la participació i a la col·laboració de tota la 
 
 [[PRI4] Títol: Programació Comunicació Acció climàtica.](%5BPRI4%5D%20Ti%CC%81tol%20Programacio%CC%81%20Comunicacio%CC%81%20Accio%CC%81%20clim%C3%A0tica.md)
 
-[[PRI5] Títol: #CREIXEMIACTUEM](%5BPRI5%5D%20Ti%CC%81tol%20%23CREIXEMIACTUEM.md))
+[[PRI5] Títol: #CREIXEMIACTUEM](%5BPRI5%5D%20Ti%CC%81tol%20%23CREIXEMIACTUEM.md)
 
 [[PRI6] Títol: Creem una pàgina web](%5BPRI6%5D%20Ti%CC%81tol%20Creem%20una%20pa%CC%80gina%20web.md)
 
