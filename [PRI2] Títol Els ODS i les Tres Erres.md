@@ -27,6 +27,6 @@ El projecte que s'ha desenvolupat és interdisciplinari, ja que s'han abordat le
 
 ## Programació
 
-[[PRI2] Programació Didàctica Setmanal.pdf](%5BPRI2%5D%20Ti%CC%81tol%20Els%20ODS%20i%20les%20Tres%20Erres%207cdae313053e4b769a94578926aceac3/PRI2_Programaci_Didctica_Setmanal.pdf)
+[[PRI2] Programació Didàctica Setmanal.pdf](Programaci%C3%B3%20Did%C3%A0ctica/PRI2_Programaci%C3%B3_Did%C3%A0ctica_Setmanal.pdf)
 
 ![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
