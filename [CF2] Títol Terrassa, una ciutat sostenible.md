@@ -1,6 +1,6 @@
 # [CF2] Títol: Terrassa, una ciutat sostenible(?)
 
-![Untitled](%5BCF2%5D%20Ti%CC%81tol%20Terrassa,%20una%20ciutat%20sostenible(%20)%202b84d85d0bdf47e0894620ab8e4694af/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -175,4 +175,4 @@ _____________________________________________________________________
 
 - Material d’aula: full, llapis i bolígraf.
 
-![PeuSubvencio.png](%5BCF2%5D%20Ti%CC%81tol%20Terrassa,%20una%20ciutat%20sostenible(%20)%202b84d85d0bdf47e0894620ab8e4694af/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
