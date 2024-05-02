@@ -1,6 +1,6 @@
 # [PRI4] Títol: Programació Comunicació Acció climàtica.
 
-![Untitled](%5BPRI4%5D%20Ti%CC%81tol%20Programacio%CC%81%20Comunicacio%CC%81%20Accio%CC%81%20cli%20026a67bd2f584ba083635744e08b0425/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -28,4 +28,4 @@ Amb aquesta programació treballem transversalment les diferents llengües; l’
 
 [[PRI4] Programació Didàctica Setmanal.pdf](%5BPRI4%5D%20Ti%CC%81tol%20Programacio%CC%81%20Comunicacio%CC%81%20Accio%CC%81%20cli%20026a67bd2f584ba083635744e08b0425/PRI4_Programaci_Didctica_Setmanal.pdf)
 
-![PeuSubvencio.png](%5BPRI4%5D%20Ti%CC%81tol%20Programacio%CC%81%20Comunicacio%CC%81%20Accio%CC%81%20cli%20026a67bd2f584ba083635744e08b0425/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
