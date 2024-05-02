@@ -1,6 +1,6 @@
 # [ESO2] Títol: Les Enquestes, Què són? Què sap la societat sobre els ODS? Elaboració d’un reportatge sobre els coneixements de la societat en relació als ODS.
 
-![Untitled](%5BESO2%5D%20Ti%CC%81tol%20Les%20Enquestes,%20Que%CC%80%20so%CC%81n%20Que%CC%80%20sap%20la%20b62fd5a5bc174b77942a0cdd6533be9e/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## Autoria
 
@@ -237,4 +237,4 @@ Context: Els estudiants han estat seleccionats per participar en una missió esp
     - La resolució de les proves proporcionarà pistes o codis que els portaran a la sala següent.
     - Aquesta estructura d'Escape Room està dissenyada per ser educativa, interactiva i divertida, amb l'objectiu de consolidar els coneixements sobre els ODS mentre es fomenta la col·laboració i el pensament crític dels estudiants.
 
-![PeuSubvencio.png](%5BESO2%5D%20Ti%CC%81tol%20Les%20Enquestes,%20Que%CC%80%20so%CC%81n%20Que%CC%80%20sap%20la%20b62fd5a5bc174b77942a0cdd6533be9e/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
