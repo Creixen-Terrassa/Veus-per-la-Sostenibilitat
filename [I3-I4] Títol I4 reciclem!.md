@@ -1,6 +1,6 @@
 # [I3-I4] Títol: I4 reciclem!
 
-![Untitled](%5BI3-I4%5D%20Ti%CC%81tol%20I4%20reciclem!%20e00b3d371fec49d4a8bed5f5299c68c6/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -440,4 +440,4 @@ Avui hem arribat al final de la nostra activitat sobre els ODS, però no sense d
 
 - Aula.
 
-![PeuSubvencio.png](%5BI3-I4%5D%20Ti%CC%81tol%20I4%20reciclem!%20e00b3d371fec49d4a8bed5f5299c68c6/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
