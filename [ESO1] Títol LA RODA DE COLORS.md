@@ -1,6 +1,6 @@
 # [ESO1] Títol: LA RODA DE COLORS
 
-![Untitled](%5BESO1%5D%20Ti%CC%81tol%20LA%20RODA%20DE%20COLORS%203f02adc991954534ad5921c2ca90d270/Untitled.png)
+![PortadaCreixen](PortadaCreixen.png)
 
 ## **Autoria**
 
@@ -244,4 +244,4 @@ Missatges i resultat final |
 |  |  |  |  |
 |  |  |  |  |
 
-![PeuSubvencio.png](%5BESO1%5D%20Ti%CC%81tol%20LA%20RODA%20DE%20COLORS%203f02adc991954534ad5921c2ca90d270/PeuSubvencio.png)
+![PeuSubvencio.png](PeuSubvenci%C3%B3.png)
